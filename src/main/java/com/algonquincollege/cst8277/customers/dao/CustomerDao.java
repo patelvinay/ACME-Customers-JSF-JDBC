@@ -16,7 +16,7 @@ import com.algonquincollege.cst8277.customers.model.CustomerPojo;
  * File: CustomerDao.java
  * Course materials (20F) CST 8277
  * @author (original) Mike Norman
- * @author Bhavinkumar Patel
+ * @author Vinay Patel
  * Description: API for the database C-R-U-D operations
  */
 public interface CustomerDao {

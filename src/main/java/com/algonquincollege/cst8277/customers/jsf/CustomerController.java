@@ -2,7 +2,7 @@
  * File: CustomerController.java
  * Course materials (20F) CST 8277
  * @author (original) Mike Norman
- * @author Bhavinkumar Patel
+ * @author Vinay Patel
  *
  */
 package com.algonquincollege.cst8277.customers.jsf;
